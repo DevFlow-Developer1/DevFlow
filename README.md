@@ -17,7 +17,8 @@ Release | Description | Collaboration Status
 ---|---|---  
 **v0.1.0 "empty shell"** | the basic repository with .github folder of templates for contributing, issues, and pull requests and without code | Closed
 **v0.2.0 "namespace w semantic versioning"** | a few files to establish .gs namespace for our work | Closed  
-**v0.3.0 "make test ready"** | automation of applying naming standards during script development and sheets testing See issue https://github.com/rudimusmaximus/DevFlow/issues/8 to track progress | Closed  
+**v0.3.0 "DevFlow for FEW-D: demo ready"** | ready for hands on demo with google's simple addon; will be replaced with true addon for demos during sprint to v1. | Closed  
+**v0.4.0 "make test ready"** | automation of applying naming standards during script development and sheets testing See issue https://github.com/rudimusmaximus/DevFlow/issues/8 to track progress | Closed  
 **v1.0.0 "minimal addon for sheets"** | Demonstrable, can clone and publish test as addon; a basic sidebar with workflow start and restart and menu with at least one example demo, issues to list out ongoing and upcoming demo ideas, kick off meetings and working sessions to solicit feedback on contributors. - // TODO: list a few issues by hash link reference | Open to all (volunteer today)
 **v1.1.0 "what's new"** | the what's new approach from earlier TU Episode | Open  
 **All Future Releases** | star this repo and follow via zen board, fork and suggest, or create issues for requests - // TODO: list a few issues by hash link reference | Open (see 'Zen Board' for all DevFlow)
@@ -101,7 +102,14 @@ This section brought to you by a short side project (DevFlow 4 FEW-D) whose site
 ## Quick route "i just want to explore the addon demo"  
 TODO: DevFlow 4 FEW-D
 ## Contributor route "i'd like to try out the DevFlow by participating in the project"  
-TODO: DevFlow 4 FEW-D
+### Phase II notes
+1. Add your name and GitHub handle to the bottom of this list:
+ - Rob Goelz  @RobGoelz
+ - Your Name @YourHandle
+2. Save this file and commit and push to your origin/develop branch.
+
+3. Submit a pull request from this branch to the development branch.
+
 ## Implementor "i want to customize DevFlow and make it my own for one or more projects"  
 [future project]
 
